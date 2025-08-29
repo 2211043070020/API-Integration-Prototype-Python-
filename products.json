@@ -1,0 +1,7 @@
+[
+  {"id":1, "name":"Organic Cotton T-Shirt", "category":"Clothing", "sustainability_score":85},
+  {"id":2, "name":"Conventional Cotton T-Shirt", "category":"Clothing", "sustainability_score":40},
+  {"id":3, "name":"Bamboo Toothbrush", "category":"Personal Care", "sustainability_score":90},
+  {"id":4, "name":"Plastic Toothbrush", "category":"Personal Care", "sustainability_score":30},
+  {"id":5, "name":"Reusable Water Bottle", "category":"Accessories", "sustainability_score":95}
+]
