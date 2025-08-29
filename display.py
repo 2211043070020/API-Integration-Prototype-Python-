@@ -1,9 +1,5 @@
-# display.py - Functions to show information to the user
-
-from utils import format_date
-
-def show_events(events):
-    print("\nUpcoming Events:\n")
-    for idx, event in enumerate(events, 1):
-        print(f"{idx}. {event['name']} on {format_date(event['date'])} (ID: {event['id']})")
+# display.py
+def show_products(products):
+    for i, p in enumerate(products, 1):
+        print(f"{i}. {p['name']} (Score: {p['sustainability_score']}, {p['category']})")
 
